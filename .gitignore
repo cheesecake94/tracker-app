@@ -10,6 +10,7 @@ npm-debug.*
 web-build/
 
 tracker-server/node_modules/
+tracker-server/.env
 
 # macOS
 .DS_Store
